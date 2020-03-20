@@ -50,16 +50,16 @@
   },
   {
     "id": 7,
-    "first_name": "Ashley",
-    "last_name": "Reyes",
+    "first_name": "Daniel",
+    "last_name": "Larusso",
     "email": "areyes6@bing.com",
     "hours_worked": 60,
     "hourly_wage": 9
   },
   {
     "id": 8,
-    "first_name": "Antonio",
-    "last_name": "Cruz",
+    "first_name": "Ash",
+    "last_name": "Ketchum",
     "email": "acruz7@jigsy.com",
     "hours_worked": 38,
     "hourly_wage": 10
