@@ -1,4 +1,5 @@
-"employees" : [
+{
+  "employees" : [
   {
     "id": 1,
     "first_name": "Henry",
@@ -800,3 +801,4 @@
     "hourly_wage": 9
   }
 ]
+}
